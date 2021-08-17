@@ -1,2 +1,2 @@
 # Lista-de-tarefas
-Desafio proposto durante o curso ProgramdorBR
+Desafio proposto durante o curso ProgramadorBR
